@@ -17,7 +17,7 @@ I'm using this as starting point for a new GUI.
 
 ## Screenshots
 
-![Screenshot Main Window](https://github.com/anki-xyz/GenericGUI/generic_gui_screenshot1.png "Screenshot Main Window")
+![Screenshot Main Window](https://github.com/anki-xyz/GenericGUI/blob/master/generic_gui_screenshot1.png "Screenshot Main Window")
 
-![Screenshot Plot](https://github.com/anki-xyz/GenericGUI/generic_gui_screenshot2.png "Screenshot Plot")
+![Screenshot Plot](https://github.com/anki-xyz/GenericGUI/blob/master/generic_gui_screenshot2.png "Screenshot Plot")
 
